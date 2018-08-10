@@ -1,0 +1,2 @@
+replicas: 4
+image: alimt/hi
